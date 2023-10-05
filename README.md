@@ -8,7 +8,7 @@
 
 ## How to run the program
 
-This program will be running in C++ and will require gcc to run.
+This program will be running in C++ and will require gcc to run. after saving the files, you can use " ./main " to run the program.
 
 1. Linux
 
@@ -27,3 +27,5 @@ This program will be running in C++ and will require gcc to run.
   - Windows Explorer > Right click on This PC > Properties > Advanced system settings > Environment Variables
 - At the bottom "System Variables" panel, look for a Variable named "Path" and double click on it. Some systems show a good UI for adding a New Path easily (by clicking New), else you just need to add ; at the end and add the following path: C:\MinGW\bin (ASSUMING YOU DID NOT ALTER THE DEFAULT INSTALLATION PATH)
 - Click on OK, and OK and close the other windows.
+
+
